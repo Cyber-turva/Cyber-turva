@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Cyber-turva
-- 👀 I’m interested in learning technology, and building up career in the field.
-- Learning online for more than a year through various platforms, such as Cisco, isc2.org, mooc.fi
-- 💞️ Enrolled python course in Omnia starting from September.
-
-<!---
-Cyber-turva/Cyber-turva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about technology and self-driven learner with a strong desire for a career change. Holds a bachelor's degree in management. Enthusiastic about exploring and mastering new skills. Embarked on a journey of self-learning through prestigious institutes like Cisco and isc2.org. Eager to leverage expertise in technology for a rewarding and fulfilling career transition.
